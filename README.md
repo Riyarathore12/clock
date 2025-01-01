@@ -1,1 +1,1 @@
-# clock
+This project is a simple yet elegant analog clock built using HTML, CSS, and JavaScript. The clock dynamically displays the current time with smooth movement of the hour, minute, and second hands. It's fully responsive and can be customized for various designs and themes. Perfect for learning or showcasing web development and DOM manipulation skills!
